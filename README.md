@@ -4,7 +4,7 @@ the project is only for showcasing the basic understanding of github and git
 Input:
    p, principal amount
   t, time period in years
-   ###r, annual rate of interest
+   r, annual rate of interest
 Output
   simple interest = p*t*r
    
